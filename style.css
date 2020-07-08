@@ -1,0 +1,55 @@
+.container{
+    padding: 15px;
+    margin-bottom: 90px;
+}
+.first-section{
+    background-color:rgb(240, 255, 240) ;
+}
+.header{
+    margin-bottom: 50px;
+}
+.nav a{
+    color:black ;
+}
+.nav li:last-child{
+    background-color:#21b573;
+    border-radius: 20px;
+}
+.nav li:last-child a{
+    color: white ;
+}
+.banner img{
+    width: 100%;
+}
+.banner h5{
+    color:#f79d77
+}
+.banner h1{
+    font-size: 50px;
+    font-weight: 700;
+    padding: 20px 0px;
+}
+.banner span{
+    color: #21b573;
+}
+.banner p{
+    font-weight: 500;
+    font-size: 20px;
+}
+button{
+    border: none;
+    padding: 10px 25px;
+    background-color: #21b573;
+    color: white;
+    font-weight: 500;
+    border-radius: 25px;
+    margin: 10px 0px 30px 0px;
+    cursor: pointer;
+}
+.feature img{
+    width: 70px;
+  
+}
+.box-shadow{
+    box-shadow: 10px 10px 30px lightgray;
+}
